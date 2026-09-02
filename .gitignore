@@ -1,5 +1,3 @@
-benchmarks.txt
-
 # built application files
 *.apk
 *.ap_
@@ -42,6 +40,4 @@ project/project/
 # Mac files
 .DS_Store
 
-# SBT configuration files
-# remove if specific version of SBT is required
-project/build.properties 
+benchmarks.txt
